@@ -35,7 +35,7 @@ function Airplane(name) {
           + The `eat` method should have no effect if there are 10 items in the `stomach`.
       - Give instances of Person the ability to `.poop()`:
           + When an instance poops, its `stomach` should empty.
-      - Give instances of Person a method `.toString()`:
+      - Give instances of Person a method `.toString()`: yes
           + It should return a string with `name` and `age`. Example: "Mary, 50"
   */
   
